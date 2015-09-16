@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛般若波羅蜜經論
+#+DATE: 2015-08-30 19:44:40.773216
+#+PROPERTY: JUAN 0
