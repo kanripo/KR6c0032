@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:40.551205
+#+DATE: 2015-08-30 19:44:42.586905
 #+TITLE: 金剛般若波羅蜜經論
 #+PROPERTY: CBETA_ID T25n1511
 #+PROPERTY: ID KR6c0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1511
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0032_T_003-0792a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《金剛般若波羅蜜經論》卷下¶
+《金剛般若波羅蜜經論》卷下¶
 ¶
 天親菩薩造¶
 元魏天竺三藏菩提流支譯¶
@@ -583,7 +582,7 @@
 #+END_VERSE
 」¶
 
-如經何以故。須菩提。若人如是言。佛說我見¶
+如經何以故。須者提。若人如是言。佛說我見¶
 人見眾生見壽者見。如是乃至是名我見人¶
 見眾生見壽者見故。此復何義。偈言非無二¶
 得道遠離於我法故。此義云何。非無我無法。¶
